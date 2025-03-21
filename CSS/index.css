@@ -1,6 +1,7 @@
 body {
-    background: rgb(20,20,20);
+    background: rgb(30,10,30);
+    font-size: 6em;
 }
 p {
-    color: yellow;
+    color: gray;
 }
