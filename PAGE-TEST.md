@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "test title"
-permalink: /test/page/
+title: "About"
+permalink: /About
 ---
 
 <h1>{{ "Hello World" | downcase}}</h1>
