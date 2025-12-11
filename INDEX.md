@@ -6,7 +6,7 @@ permalink: /
 
 <head>
 	<script src="logic.js"></script>
-	<link rel="stylesheet" href="CSS/index.css">
+    <link rel="stylesheet" href="CSS/index.css">
 </head>
 
 <h1> Projects: </h1>
