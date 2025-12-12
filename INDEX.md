@@ -5,7 +5,6 @@ permalink: /
 ---
 
 <head>
-	<script src="logic.js"></script>
     <link rel="stylesheet" href="CSS/index.css">
 </head>
 

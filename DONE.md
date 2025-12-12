@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Done"
-permalink: /Done
+permalink: /done.html
 ---
 
 Things I've done:
