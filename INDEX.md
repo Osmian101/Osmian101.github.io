@@ -4,10 +4,6 @@ title: "Home"
 permalink: /
 ---
 
-<head>
-    <link rel="stylesheet" href="CSS/index.css">
-</head>
-
 <h1> Projects: </h1>
 <h2> Arch Laptop </h2>
 <p> Maintanence research and schedule </p>
