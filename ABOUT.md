@@ -1,6 +1,6 @@
----
-title: "About"
-permalink: /about.html
----
+<!-- --- -->
+<!-- title: "About" -->
+<!-- permalink: /about.html -->
+<!-- --- -->
 
-<h1>{{ "Hello World" | downcase}}</h1>
+<!-- <p> I like to understand the way things work. </p> -->
