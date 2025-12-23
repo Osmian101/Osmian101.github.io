@@ -4,4 +4,8 @@ permalink: /done.html
 ---
 Things I've done:
  - Made this website
- - Build half a desk
+ - Built half a desk
+ - Repurposed an old laptop for development
+    - Formatted
+    - Installed Arch Linux
+    - Ricing is still in progress but currently using AwesomeWM, zsh, and NVIM for just about everything
