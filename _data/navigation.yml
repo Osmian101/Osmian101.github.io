@@ -2,8 +2,10 @@
   link: /
 # - name: About
 # link: /about.html
-- name: Done
-  link: /done.html
+# - name: Done
+  # link: /done.html
+- name: Projects
+  link: /projects.html
 - name: Blog
   link: /blog.html
 - name: Topics
