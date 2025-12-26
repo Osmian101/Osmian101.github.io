@@ -2,9 +2,16 @@ body {
   background-color: black;
   color: white;
 }
+
 a {
   color: white;
 }
+
 .current {
   color: green;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
 }
